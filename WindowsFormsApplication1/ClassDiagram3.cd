@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="WindowsFormsApplication1.checkBookings">
+    <Position X="4" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>MCAIAAABQSAAABgACACAAABCIGwZAAAQEGAYAgEAAgI=</HashCode>
+      <FileName>checkBookings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.CheckBookingsStaff">
+    <Position X="1" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAEAAGAAABgCABCAAAACQCgIAAIAEEAQABAAAAI=</HashCode>
+      <FileName>CheckBookingsStaff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.create">
+    <Position X="1" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACAAABAAAICAAABCAIAMAAAAEEAAABAAAQA=</HashCode>
+      <FileName>create.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.createManager">
+    <Position X="4.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAgAAAAAAAAAgAI=</HashCode>
+      <FileName>createManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Form1">
+    <Position X="10.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>kgIAAAEAQCAAABgYAAKAAAACAMQ4BAgAEHQIAEABAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.customers">
+    <Position X="13.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAgAAACAAAQCQCgAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.login">
+    <Position X="7" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAGAAABgAAACAAAACACQIAAIAEEAAABAAAIA=</HashCode>
+      <FileName>login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.NewBooking">
+    <Position X="16.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAkABiQAACAAABCIAQ4AAAAEHAQABAAAQI=</HashCode>
+      <FileName>NewBooking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.SaleReps">
+    <Position X="7" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAABgCAACAAAACQAwIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>SaleReps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Upgrade">
+    <Position X="13.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAGAAABgAAACAAAACAAQIAAIAEEAAAAAAAAA=</HashCode>
+      <FileName>Upgrade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
